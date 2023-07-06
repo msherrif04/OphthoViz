@@ -1,0 +1,128 @@
+,source,target,value
+0,France,Guadeloupe,8
+1,Pakistan,South Korea,1
+2,Niger,United Kingdom,1
+3,Niger,Nigeria,23
+4,Niger,South Africa,1
+5,Ghana,Niger,2
+6,Nigeria,United Kingdom,1
+7,South Africa,United Kingdom,1
+8,Ghana,United Kingdom,3
+9,Nigeria,South Africa,1
+10,Ghana,Nigeria,2
+11,Ghana,South Africa,1
+12,France,Tunisia,1
+13,Qatar,United States,1
+14,Jordan,Qatar,2
+15,Kuwait,Qatar,1
+16,Jordan,United States,1
+17,Kuwait,United States,1
+18,Jordan,Kuwait,1
+19,Germany,United States,2
+20,Australia,Germany,1
+21,Germany,Sweden,1
+22,Germany,Netherlands,1
+23,Germany,South Africa,1
+24,Denmark,Germany,1
+25,Australia,United States,1
+26,Sweden,United States,1
+27,Netherlands,United States,4
+28,South Africa,United States,1
+29,Denmark,United States,1
+30,Australia,Sweden,1
+31,Australia,Netherlands,1
+32,Australia,South Africa,1
+33,Australia,Denmark,1
+34,Netherlands,Sweden,1
+35,South Africa,Sweden,1
+36,Denmark,Sweden,1
+37,Netherlands,South Africa,1
+38,Denmark,Netherlands,1
+39,Denmark,South Africa,1
+40,Japan,United States,2
+41,India,United States,5
+42,Egypt,Saudi Arabia,1
+43,Nigeria,United States,2
+44,Niger,United States,2
+45,France,United States,6
+46,Canada,United States,6
+47,Canada,France,2
+48,Malaysia,United Kingdom,2
+49,France,Italy,4
+50,Canada,Jamaica,2
+51,Hong Kong,Kuwait,1
+52,Canada,Kuwait,1
+53,Canada,Hong Kong,1
+54,China,United States,2
+55,France,Netherlands,1
+56,Brazil,United States,6
+57,France,Mali,2
+58,Mali,Senegal,1
+59,France,Senegal,3
+60,China,Japan,1
+61,Nigeria,Zimbabwe,1
+62,Niger,Zimbabwe,1
+63,Canada,India,1
+64,Australia,Switzerland,1
+65,Brazil,Italy,1
+66,Brazil,France,1
+67,Brazil,Senegal,1
+68,Brazil,Monaco,1
+69,Italy,Senegal,1
+70,Italy,Monaco,1
+71,France,Monaco,1
+72,Monaco,Senegal,1
+73,Italy,United States,4
+74,Turkey,United States,3
+75,Georgia,United States,6
+76,Mexico,United States,4
+77,Brazil,United Kingdom,3
+78,United Kingdom,United States,10
+79,Germany,United Kingdom,2
+80,Jamaica,United Kingdom,12
+81,Saudi Arabia,Sweden,2
+82,Saudi Arabia,United Arab Emirates,1
+83,Sweden,United Arab Emirates,1
+84,Singapore,United Kingdom,2
+85,United Arab Emirates,United Kingdom,1
+86,Cameroon,South Africa,1
+87,France,South Africa,1
+88,Cameroon,France,1
+89,Pakistan,United States,2
+90,France,Pakistan,1
+91,Malawi,United States,1
+92,Malawi,United Kingdom,1
+93,Egypt,United States,1
+94,Guadeloupe,United States,1
+95,Denmark,United Kingdom,2
+96,Brazil,Canada,1
+97,France,Switzerland,1
+98,Brazil,Portugal,1
+99,France,United Kingdom,1
+100,Egypt,Qatar,1
+101,United States,Zambia,1
+102,Germany,Ghana,1
+103,Germany,Kenya,2
+104,Ghana,Kenya,1
+105,Argentina,United States,1
+106,Curaçao,Netherlands,4
+107,Egypt,United Kingdom,1
+108,Norway,United States,1
+109,Burkina Faso,France,1
+110,France,Martinique,1
+111,Netherlands,United Kingdom,1
+112,Jersey,United States,4
+113,Jamaica,United States,10
+114,Japan,Netherlands,1
+115,France,Togo,1
+116,Canada,Saudi Arabia,1
+117,Saudi Arabia,United Kingdom,1
+118,Jamaica,Saudi Arabia,1
+119,Germany,Saudi Arabia,1
+120,Canada,United Kingdom,1
+121,Canada,Germany,1
+122,Germany,Jamaica,1
+123,Jamaica,Trinidad and Tobago,1
+124,New Zealand,United States,1
+125,Belgium,United States,1
+126,Ireland,Jamaica,1
