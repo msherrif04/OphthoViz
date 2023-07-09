@@ -1,0 +1,100 @@
+,countries,count,code
+0,  Canada,8,CAN
+1,  Denmark,1,DNK
+2,  France,6,FRA
+3,  Germany,2,DEU
+4,  Ghana,4,GHA
+5,  Guadeloupe,8,GLP
+6,  Hong Kong,1,HKG
+7,  India,1,IND
+8,  Italy,4,ITA
+9,  Jamaica,14,JAM
+10,  Japan,1,JPN
+11,  Kenya,2,KEN
+12,  Kuwait,2,KWT
+13,  Malawi,1,MWI
+14,  Malaysia,2,MYS
+15,  Mali,2,MLI
+16,  Martinique,1,MTQ
+17,  Monaco,1,MCO
+18,  Netherlands,8,NLD
+19,  Niger,2,NER
+20,  Nigeria,23,NGA
+21,  Pakistan,1,PAK
+22,  Portugal,1,PRT
+23,  Qatar,3,QAT
+24,  Saudi Arabia,3,SAU
+25,  Senegal,3,SEN
+26,  Singapore,2,SGP
+27,  South Africa,3,ZAF
+28,  South Korea,1,not found
+29,  Sweden,3,SWE
+30,  Switzerland,1,CHE
+31,  Togo,1,TGO
+32,  Trinidad and Tobago,1,TTO
+33,  Tunisia,1,TUN
+34,  United Kingdom,10,GBR
+35,  United States,71,USA
+36,  Zambia,1,ZMB
+37,  Zimbabwe,1,ZWE
+38,"""Cote dIvoire""",4,CIV
+39,Argentina,2,ARG
+40,Australia,2,AUS
+41,Bahrain,1,BHR
+42,Belgium,4,BEL
+43,Benin,1,BEN
+44,Brazil,46,BRA
+45,Burkina Faso,3,BFA
+46,Cameroon,1,CMR
+47,Canada,14,CAN
+48,China,5,CHN
+49,Cuba,3,CUB
+50,Curaçao,4,CUW
+51,Denmark,2,DNK
+52,Egypt,10,EGY
+53,France,61,FRA
+54,French Guiana,1,GUF
+55,Georgia,6,GEO
+56,Germany,14,DEU
+57,Ghana,2,GHA
+58,Greece,3,GRC
+59,Guadeloupe,1,GLP
+60,India,16,IND
+61,Iran,1,IRN
+62,Ireland,4,IRL
+63,Israel,2,ISR
+64,Italy,15,ITA
+65,Jamaica,29,JAM
+66,Japan,5,JPN
+67,Jersey,5,JEY
+68,Jordan,6,JOR
+69,Kenya,1,KEN
+70,Lebanon,1,LBN
+71,Lithuania,1,LTU
+72,Malaysia,4,MYS
+73,Mali,1,MLI
+74,Mexico,5,MEX
+75,Morocco,3,MAR
+76,Netherlands,6,NLD
+77,New Zealand,3,NZL
+78,Niger,21,NER
+79,Nigeria,2,NGA
+80,Norway,1,NOR
+81,Oman,1,OMN
+82,Pakistan,4,PAK
+83,Poland,1,POL
+84,Portugal,3,PRT
+85,Qatar,1,QAT
+86,Russian Federation,1,RUS
+87,Saudi Arabia,5,SAU
+88,South Africa,2,ZAF
+89,South Korea,1,KOR
+90,Spain,3,ESP
+91,Switzerland,3,CHE
+92,Togo,2,TGO
+93,Tunisia,2,TUN
+94,Turkey,8,TUR
+95,Uganda,1,UGA
+96,United Arab Emirates,2,ARE
+97,United Kingdom,61,GBR
+98,United States,327,USA
