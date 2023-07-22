@@ -17,6 +17,10 @@ st.set_page_config(page_title='SCR Trends',
 
 #title block
 st.title ('Trends in publications on Sickle Cell Retinopathy Over the Years')
+st.markdown(
+        """
+        **👈 Select a page from the side menu on the left** to see some analysis!
+        """)
 
 #----------------------------
 #------Choropleth Map------------
@@ -100,7 +104,7 @@ with col_2:
 st.subheader('Compare the number of publications contributed by any two countries')
 st.info(
         """
-        **👇 Select 2 countries from the dropdown below** to see some the results!
+        **👇 Select 2 countries from the dropdown below** to compare their contributions to research on sickle cell retinopathy!
         """)
 
 #select box section
@@ -217,6 +221,7 @@ st.markdown("""
             """)
 
 
+
 #------------------------------------------------------------
 #-------Most common publishing language
 #----------------------------------------------------------------
@@ -234,3 +239,10 @@ with row6_col2:
     st.markdown("""
                 English remains the most commonly used language in publications on sickle cell retinopathy. The majority of research articles, reviews, and scientific papers are published in English-language journals, making it the primary medium for disseminating knowledge and findings in this field. This prevalence of English as the dominant language in sickle cell retinopathy publications allows for global accessibility and facilitates collaboration and exchange of information among researchers and healthcare professionals worldwide. While there might be a limited number of publications in other languages, English continues to be the primary language of choice for communication and dissemination of research in the realm of sickle cell retinopathy.
                 """)
+
+
+
+st.markdown("***")
+st.markdown(
+"Thanks for going through this mini-analysis with me! I'd love feedback on this, so if you want to reach out you can find me on [linkedIn](https://www.linkedin.com/in/msfuseini/)."
+)

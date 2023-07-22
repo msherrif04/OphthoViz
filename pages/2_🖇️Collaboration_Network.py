@@ -19,7 +19,10 @@ st.set_page_config(page_title='SCR Collaborations',
 #title block
 st.title ('International Collaboration On Research on Sickle Cell Retinopathy')
 
-
+st.markdown(
+        """
+        **👈 Select a page from the side menu on the left** to see some analysis!
+        """)
 #Number of colaborators
 st.subheader("""
         How frequent has international collaboration in Sickle cell retinopathy research been?
@@ -60,3 +63,10 @@ components.html(source_code, height= 800, width = 800)
 st.markdown("""
             Researchers in the USA were on the highest number of collaborative publications.
             """)
+
+
+
+st.markdown("***")
+st.markdown(
+"Thanks for going through this mini-analysis with me! I'd love feedback on this, so if you want to reach out you can find me on [linkedIn](https://www.linkedin.com/in/msfuseini/)."
+)

@@ -11,7 +11,7 @@ st.title ('Analysing Trends in Publications on Sickle Cell Retinopathy')
 
 st.markdown(
         """
-        **👈 Select a page from the dropdown on the left** to see some the results!
+        **👈 Select a page from the side menu on the left** to see some analysis!
         """)
 
 #Some background
@@ -39,4 +39,10 @@ The results were analysed using python scripts.
 - **Data Visualization:** Include packages which were used to plot graphs in the analysis or for understanding the ML modelling such as `plotly, seaborn, matplotlib` and others.
 - **NLP:** `spacy, displacy`, etc.
 
-            """)
+        """)
+
+
+st.markdown("***")
+st.markdown(
+"Thanks for going through this mini-analysis with me! I'd love feedback on this, so if you want to reach out you can find me on [linkedIn](https://www.linkedin.com/in/msfuseini/)."
+)
